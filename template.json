@@ -1,0 +1,12 @@
+{
+    "daily": ["rinse off", "wash face", "pack bags"],
+	"weekday": ["wake up 5:00"],
+	"weekend": [],
+	"monday": [],
+	"tuesday": [],
+	"wednesday": [],
+	"thursday": [],
+	"friday": [],
+	"saturday": ["wash clothes"],
+	"sunday": ["meal prep"]
+}
